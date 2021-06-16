@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Abigail Smith CPT-188 Lab3</string>
+    <string name="question_doge">Dogecoin is going to the moon.</string>
+    <string name="question_blockchain">A blockchain is a growing list of records, called blocks, that are linked together using cryptography.</string>
+    <string name="question_shiba">The Shiba Inu dog comes from China.</string>
+    <string name="question_created">Dogecoin was created in 2013.</string>
+    <string name="question_elon">Elon Musk does not support Dogecoin.</string>
+    <string name="question_billy">Dogecoin was created by Billy Markus.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
